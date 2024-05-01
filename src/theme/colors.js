@@ -1,0 +1,20 @@
+export const Colors = {
+    blueshGray: "#9298A8",
+    blueshGrayLight: "#EBEEF7",
+    blueshGrayDark: "#9298A8",
+    blackNeutral: "#131A1B",
+    primaryTwo: '#505E61',
+    white: "#FFFFFF",
+    cyanPrimary: "#0DDFFF",
+    grayTint: "#F7F8FC",
+    black: "#222525",
+    gray: "#D4D4D4",
+    redNotification: "#FF1E1E",
+    goldColor: "#D4AF37",
+    dimBlack: "rgba(0, 0, 0, 0.46)",
+    green: "#00C013",
+    dimGold: "rgba(212, 175, 55, 0.5)",
+    TabIconColorDisable: "#83868C",
+    TabIconColor: "#FFB125",
+    black4:"rgba(0, 0, 0, 0.4)"
+}
